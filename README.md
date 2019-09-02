@@ -37,3 +37,9 @@ DESc     = Represent the "REGULAR" scheduled audit event (Normally occurs every 
 ENTRIES  = The comulative entry register value for a device
 
 EXIST    = The cumulative exit register value for a device
+
+
+## Project Questions
+
+1. Most crowded station
+2. Most Crowded Time
