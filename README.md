@@ -1,4 +1,5 @@
-# Project 1 mta
+# Project 1 - EDA on MTA data
+
 In fulfillment of data science bootcamp projects
 
 ## Dataset
@@ -6,7 +7,7 @@ In fulfillment of data science bootcamp projects
 http://web.mta.info/developers/turnstile.html
 
 ## Project Goal
-Investigate New york MTA traffic to give insights to the people to avoid crowded area and to improve the logistics of New york subways.
+Investigate The Metropolitan Transportation traffic to give insights to the people to avoid crowded area and to improve the logistics of New york subways.
 
 ## Field Description
 
@@ -43,5 +44,6 @@ EXIST    = The cumulative exit register value for a device
 ## Project Questions
 
 1. Most crowded SCP (based on commulative entry & exit register value)
-2. Most Crowded Time (based on time & commulative entry & exit register value)
+2. Most Crowded Time "Find patterns" (based on time & commulative entry & exit register value)
 3. Most crowded station name (based on commulative entry & exit register value)
+4. Focus on new york residents not tourists (exit not entry)
