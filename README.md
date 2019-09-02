@@ -6,7 +6,7 @@ In fulfillment of data science bootcamp projects
 http://web.mta.info/developers/turnstile.html
 
 ## Project Goal
-Investigate Ney york MTA traffic to give insights to the people to avoid crowded area and to improve the logistics of New york subways.
+Investigate New york MTA traffic to give insights to the people to avoid crowded area and to improve the logistics of New york subways.
 
 ## Field Description
 
