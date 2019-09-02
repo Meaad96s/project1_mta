@@ -5,7 +5,8 @@ In fulfillment of data science bootcamp projects
 
 http://web.mta.info/developers/turnstile.html
 
-## Project Design
+## Project Goal
+Investigate Ney york MTA traffic to give insights to the people to avoid crowded area and to improve the logistics of New york subways.
 
 ## Field Description
 
@@ -41,6 +42,6 @@ EXIST    = The cumulative exit register value for a device
 
 ## Project Questions
 
-1. Most crowded station
-2. Most Crowded Time (based on commulative entry & exit register value)
-3. Most crowded line name
+1. Most crowded SCP (based on commulative entry & exit register value)
+2. Most Crowded Time (based on time & commulative entry & exit register value)
+3. Most crowded station name (based on commulative entry & exit register value)
