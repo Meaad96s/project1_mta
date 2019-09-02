@@ -42,4 +42,5 @@ EXIST    = The cumulative exit register value for a device
 ## Project Questions
 
 1. Most crowded station
-2. Most Crowded Time
+2. Most Crowded Time (based on commulative entry & exit register value)
+3. Most crowded line name
